@@ -1,0 +1,10 @@
+.header__navigation {
+    outline: 1px solid salmon;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 1110px;
+    margin: 0 auto 243px;
+    padding-top: 12px;
+}

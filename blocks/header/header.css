@@ -1,0 +1,11 @@
+.header {
+    max-width: 1440px;
+    height: 1103px;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    position: relative;
+    background-image: url(../../images/illustration\ inner.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}

@@ -1,0 +1,49 @@
+/*сброс стилей браузера*/
+@import url(../vendor/normalize.css);
+
+/*fonts*/
+@import url(../fonts/fonts.css);
+
+/*page*/
+@import url(../blocks/page/page.css);
+
+/*header*/
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__navigation/header__navigation.css);
+@import url(../blocks/header/__links/header__links.css);
+@import url(../blocks/header/__link-item/header__link-item.css);
+@import url(../blocks/header/__link-itself/header__link-itself.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__wrapper/header__wrapper.css);
+@import url(../blocks/header/__text/header__text.css);
+
+/*logo*/
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/_place/logo_place_header.css);
+@import url(../blocks/logo/_place/logo_place_footer.css);
+
+/*buttons*/
+@import url(../blocks/button/button.css);
+@import url(../blocks/button/_small/button_small.css);
+@import url(../blocks/button/_medium/button_medium.css);
+@import url(../blocks/button/_large/button_large.css);
+@import url(../blocks/button/_theme/button_theme_light.css);
+
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
