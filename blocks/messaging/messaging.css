@@ -1,0 +1,8 @@
+.messaging{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 120px 0 130px 0;
+  width: 100%;
+  height: auto;
+}

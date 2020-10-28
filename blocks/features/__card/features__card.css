@@ -1,0 +1,9 @@
+.features__card {
+  height: 138px;
+  width: 255px;
+  border-radius: 0px;
+}
+
+.features__card:first-of-type{
+  margin-right: 30px;
+}

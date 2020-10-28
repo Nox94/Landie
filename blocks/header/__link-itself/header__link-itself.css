@@ -10,5 +10,5 @@
 
 .header__link-itself:hover {
     opacity: 0.5;
-    transition: opacity 0.3s linear 0.5s;
-  }
+    transition: opacity 0.05s linear 0.5s;
+}

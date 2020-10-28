@@ -1,12 +1,4 @@
-.features{
-    background-image: url(../../images/u.png);
-    background-position: right;
-    background-repeat: no-repeat;
-    background-size: auto;
-    width: 100%;
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    outline: 1px solid green;
+.features {
+  display: flex;
+  align-items: center;
 }

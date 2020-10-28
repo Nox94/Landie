@@ -1,0 +1,10 @@
+.pricing {
+  background-image: url(../../images/pricing.png);
+  background-repeat: no-repeat;
+  width: 100%;
+  min-height: 900px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

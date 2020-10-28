@@ -1,11 +1,20 @@
 /*сброс стилей браузера*/
 @import url(../vendor/normalize.css);
 
-/*fonts*/
-@import url(../fonts/fonts.css);
+/*шрифты*/
+@import url(../vendor/fonts/fonts.css);
 
 /*page*/
 @import url(../blocks/page/page.css);
+
+/*section paddings style*/
+@import url(../blocks/section-pdng/section-pdng.css);
+
+/*section-title*/
+@import url(../blocks/section-title/section-title.css);
+
+/*section-text*/
+@import url(../blocks/section-text/section-text.css);
 
 /*header*/
 @import url(../blocks/header/header.css);
@@ -31,6 +40,7 @@
 
 /*features*/
 @import url(../blocks/features/features.css);
+@import url(../blocks/features/__wrapper/features__wrapper.css);
 @import url(../blocks/features/__title/features__title.css);
 @import url(../blocks/features/__text/features__text.css);
 @import url(../blocks/features/__cards/features__cards.css);
@@ -38,14 +48,46 @@
 @import url(../blocks/features/__card-pic/features__card-pic.css);
 @import url(../blocks/features/__card-title/features__card-title.css);
 @import url(../blocks/features/__card-description/features__card-description.css);
+@import url(../blocks/features/__image/features.image.css);
 
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
+/*messaging*/
+@import url(../blocks/messaging/messaging.css);
+@import url(../blocks/messaging/__image/messaging__image.css);
+@import url(../blocks/messaging/__title/messaging__title.css);
+@import url(../blocks/messaging/__text/messaging__text.css);
+@import url(../blocks/messaging/__wrapper/messaging__wrapper.css);
+
+/*photo*/
+@import url(../blocks/photo/photo.css);
+@import url(../blocks/photo/__image/photo__image.css);
+@import url(../blocks/photo/__wrapper/photo__wrapper.css);
+@import url(../blocks/photo/__title/photo__title.css);
+@import url(../blocks/photo/__text/photo__text.css);
+
+/*confidence*/
+@import url(../blocks/confidence/confidence.css);
+@import url(../blocks/confidence/__image/confidence__image.css);
+@import url(../blocks/confidence/__wrapper/confidence__wrapper.css);
+@import url(../blocks/confidence/__title/confidence__title.css);
+@import url(../blocks/confidence/__text/confidence__text.css);
+
+/*pricing*/
+@import url(../blocks/pricing/pricing.css);
+@import url(../blocks/pricing/__title/pricing__title.css);
+@import url(../blocks/pricing/__text/pricing__text.css);
+@import url(../blocks/pricing/__price/pricing__price.css);
+@import url(../blocks/pricing/__price-description/pricing__price-description.css);
+@import url(../blocks/pricing/__btn-description/pricing__btn-description.css);
+
+/*footer*/
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__line/footer__line.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__navigation/footer__navigation.css);
+@import url(../blocks/footer/__social/footer__social.css);
+@import url(../blocks/footer/__social-icon/footer__social-icon.css);
+@import url(../blocks/footer/__wrapper/footer__wrapper.css);
+@import url(../blocks/footer/__social-link/footer__social-link.css);
+@import url(../blocks/footer/__link-itself/footer__link-itself.css);

@@ -1,0 +1,7 @@
+.photo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 90px;
+  padding-bottom: 115px;
+}
